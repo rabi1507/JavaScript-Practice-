@@ -17,7 +17,7 @@ products.forEach((element) => {
 // Print the product items as follows using forEach
 // products.forEach((element) => {
 //     if (typeof element.price == 'number' && !isNaN(element.price)) 
-//         // console.log(`${element.product} : ${element.price} `)
+//         console.log(`${element.product} : ${element.price} `)
 // })
 
 // Calculate the sum of all the prices using forEach
